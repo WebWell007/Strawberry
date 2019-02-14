@@ -1,5 +1,5 @@
-/*
-@font-face {
+
+/* @font-face {
 	font-family: "Шрифт";
 	src:url("Путь") format("формат");
 	font-style: normal;
@@ -13,6 +13,5 @@
          url('../fonts/opensans-bold/opensans-bold.woff2') format('woff2'),
          url('../fonts/opensans-bold/opensans-bold.woff') format('woff'),
          url('../fonts/opensans-bold/opensans-bold.ttf') format('truetype')
-}
+} */
 
-*/
