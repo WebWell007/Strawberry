@@ -46,7 +46,7 @@
         background-size: contain;
         font-size: 21px;
     }
-    
+
     .strawberry-section{
         background-image: url('strawberry-bg_sm.jpeg');
     }
@@ -307,7 +307,7 @@
     .form-subtitle{
         font-size: 15px;
     }
-    
+
     .main-form{
         background-color: #fff;
         padding: 10px 40px;
@@ -358,12 +358,12 @@
         max-width: 100%;
         text-align: left;
     }
-    
+
     .owl-dots{
         text-align: center;
         margin-top: 3px;
     }
-    
+
     .owl-dot{
         display: inline-block;
         width: 15px;
@@ -414,7 +414,7 @@
     .strawberry-bottom-text{
         margin-top: 0;
     }
-    
+
     .strawberry-bottom-text p{
         text-align: left;
         font-size: 18px;
@@ -529,8 +529,8 @@
 
 
 
-    
-    
+
+
 .last-section{
     background-image: url('last-bg_mob.jpeg');
     -webkit-background-size: auto;
