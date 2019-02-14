@@ -1,0 +1,549 @@
+﻿@media (min-width: 992px) and (max-width: 1199px) {
+    .main-title h1{
+        font-size: 40px;
+    }
+
+    .form-trigger{
+        font-size: 29px;
+    }
+
+    .last-title span{
+        font-size: 41px;
+    }
+
+
+
+    .btn{
+        padding: 6px 0;
+    }
+
+    #form2 .input-phone, #lv-formLanding2 .input-phone{
+        left: 45px;
+    }
+
+    .form-arrow{
+        left: -45px;
+        top: 130px;
+    }
+
+    #form .input-phone, #lv-formLanding1 .input-phone{
+        left: 40px;
+    }
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .top-info-left, .top-info-right{
+        font-size: 12px;
+    }
+    .main-stock .sale span{
+        font-size: 24px;
+    }
+    .miracle-title{
+        padding-top: 2px;
+    }
+    .miracle-title h1{
+        -webkit-background-size: contain;
+        background-size: contain;
+        font-size: 21px;
+    }
+    
+    .strawberry-section{
+        background-image: url('strawberry-bg_sm.jpeg');
+    }
+
+    .comments-section{
+        padding-bottom: 45px;
+    }
+    .form-subtitle{
+        font-size: 22px;
+    }
+    #form, #lv-formLanding1{
+        padding-right: 15px;
+    }
+
+    .comments-item_text p{
+        margin-bottom: 10px;
+    }
+
+    .comments-item{
+        padding: 170px 10px 40px;
+    }
+
+    .btn a, .btn button{
+        width: 100%;
+    }
+
+    .last-subtitle li{
+        font-size: 17px;
+    }
+
+    #form2{
+        padding: 0 20px;
+    }
+
+    #form2 .input-phone, #lv-formLanding2 .input-phone{
+        left: 35px;
+        bottom: 195px;
+    }
+
+    .btn{
+        padding: 6px 0;
+    }
+
+    .last-title span{
+        font-size: 26px;
+    }
+
+    .form-input input, .form-input select{
+        width: 100%;
+    }
+
+    .form-trigger{
+        font-size: 26px;
+    }
+
+    .comments-item_name{
+        font-size: 17px;
+    }
+
+    .strawberry-title h1{
+        -webkit-background-size: contain;
+        background-size: contain;
+    }
+
+    .soil-item_text p{
+        max-width: 100%;
+        font-size: 15px;
+    }
+
+    .left-item-img{
+        margin-right: 0;
+    }
+
+    .left-item_text,
+    .right-item_text{
+        font-size: 14px;
+    }
+    .form-arrow{
+        top: 120px;
+        left: 120px;
+    }
+    #form .input-phone, #lv-formLanding1 .input-phone{
+        left: 15px;
+        bottom: 23px;
+    }
+
+
+    .top-info-right .payment{
+        margin-right: 10px;
+    }
+
+    .main-title h1{
+        font-size: 31px;
+    }
+    .last-tables{
+        display: none;
+    }
+    .left-item-img{
+        margin-right: 10px;
+    }
+
+
+    .left-item-img img{
+        width: 95px;
+    }
+}
+@media (max-width: 767px) {
+    .mfp-bg{
+        display: none;
+    }
+    .container{
+        width: 320px;
+    }
+
+    .main-section{
+        background-image: url('main-bg_mob.jpeg');
+        -webkit-background-size: auto;
+        background-size: auto;
+        background-position: center 65px;
+    }
+
+    .main-title{
+        display: block;
+        margin-top: 20px;
+    }
+
+    .main-title h1{
+        text-align: left;
+        font-size: 23px;
+        line-height: 1.5;
+    }
+
+
+    .top-line{
+        display: block;
+    }
+
+
+    .top-info-left{
+        display: block;
+    }
+
+    .main-subtitle li{
+        font-size: 16px;
+    }
+    .old-price{
+        margin-top: 0;
+        font-size: 14px;
+    }
+
+
+    .top-info-left .gmo-product{
+        width: 100%;
+        height: auto;
+        text-align: center;
+    }
+    .main-stock .sale span{
+        font-size: 15px;
+    }
+    .main-subtitle{
+        display: block;
+        margin-left: 175px;
+        margin-top: 20px;
+    }
+    .new-price span {
+        font-size: 26px !important;
+    }
+    .main-stock .sale{
+        margin-top: 0;
+        margin-left: 0;
+        float: left;
+        width: 160px;
+    }
+    .form-input input, .form-input select{
+        box-sizing: border-box;
+        width: 100%;
+        padding-left: 25px;
+        font-size: 14px;
+        height: 40px;
+        margin-top: 15px;
+    }
+
+    .form-arrow{
+        left: -33px;
+        top: 80px;
+        width: 26px;
+    }
+
+    #form .input-phone, #lv-formLanding1 .input-phone{
+        bottom: 13px;
+        left: 7px;
+    }
+
+    .miracle-wrapper{
+        display: block;
+        margin-top: 0;
+    }
+
+    .left-item-img{
+        width: 75px;
+        display: inline-block;
+    }
+
+    .left-item-img img{
+        width: 100%;
+    }
+
+    .left-item_text{
+        width: 194px;
+        font-size: 15px;
+    }
+
+    .right-item_text{
+        font-size: 13px;
+    }
+
+    .left-item_text{
+        display: inline-block;
+        vertical-align: top;
+    }
+
+    .miracle-title h1{
+        font-size: 24px;
+        margin-top: 5px;
+    }
+
+
+    .left-item{
+        display: block;
+        margin-bottom: 15px;
+    }
+
+    .miracle {
+        margin-top: 0px;
+    }
+
+    .form-btn.btn{
+        width: 100%;
+        padding: 0;
+    }
+
+    .miracle-center img{
+        margin: 15px auto;
+    }
+
+    .btn a, .btn button{
+        width: 100%;
+        height: 40px;
+        line-height: 40px;
+    }
+
+
+    .form-arrow img{
+        width: 100%;
+    }
+
+
+    .form-subtitle{
+        font-size: 15px;
+    }
+    
+    .main-form{
+        background-color: #fff;
+        padding: 10px 40px;
+        margin-top: 10px;
+    }
+    .form-title{
+        font-size: 27px;
+    }
+
+    .possible-title h1{
+        text-align: left;
+
+    }
+
+    .title h1{
+        text-align: left;
+    }
+
+    .possible-section{
+        padding-top: 10px;
+        padding-bottom: 25px;
+    }
+
+    .soil-title span{
+        margin-right: 0;
+        font-size: 13px;
+        margin-top: 0;
+    }
+
+    .possible-subtitle p{
+        font-size: 15px;
+    }
+
+    .possible-subtitle{
+        text-align: left;
+        margin-top: 0;
+    }
+
+
+
+    .possible-title h1{
+        padding: 0;
+        font-size: 27px;
+    }
+
+    .soil-item_text p{
+        font-size: 14px;
+        max-width: 100%;
+        text-align: left;
+    }
+    
+    .owl-dots{
+        text-align: center;
+        margin-top: 3px;
+    }
+    
+    .owl-dot{
+        display: inline-block;
+        width: 15px;
+        height: 15px;
+        background-color: #EA9693;
+        -webkit-border-radius: 30px;
+        -moz-border-radius: 30px;
+        border-radius: 30px;
+        margin: 0 5px;
+    }
+
+    .owl-dot.active{
+        background-color: #A74541;
+    }
+
+    .owl-nav{
+        position: relative;
+        width: 100%;
+    }
+
+    .owl-next, .owl-prev{
+        position: absolute;
+        width: 13px;
+        height: 21px;
+
+    }
+
+    .owl-next{
+        right: 0;
+        background: url("right.png") no-repeat;
+    }
+
+    .owl-prev{
+        left: 0;
+        background: url("left.png") no-repeat;
+    }
+    .strawberry-section{
+        padding-top: 0;
+        padding-bottom: 20px;
+        background-image: none;
+        height: auto;
+        background-color: #FFF3EB;
+    }
+    .strawberry-subtitle{
+        margin: 30px 0;
+    }
+
+    .strawberry-bottom-text{
+        margin-top: 0;
+    }
+    
+    .strawberry-bottom-text p{
+        text-align: left;
+        font-size: 18px;
+    }
+
+
+    .prod2{
+        text-align: center;
+    }
+
+    .strawberry-subtitle p{
+        text-align: left;
+    }
+
+    .strawberry-column .strawberry-item{
+        font-size: 14px;
+        margin-bottom: 0;
+    }
+
+
+    .strawberry-column1{
+        text-align: left;
+    }
+
+    .strawberry-column1 .strawberry-item{
+        background: url('right-small-bracket.png') no-repeat left 7px;
+        padding-right: 0;
+        padding-left: 25px;
+    }
+
+    .strawberry-box{
+        display: block;
+    }
+
+    .strawberry-subtitle span{
+        display: block;
+        font-size: 17px;
+        text-align: left;
+    }
+
+    .comments-section{
+        padding-top: 0;
+        padding-bottom: 10px;
+    }
+
+    .comments-item_name{
+        text-align: left;
+    }
+
+    .comments-section .owl-nav{
+        margin-top: 20px;
+    }
+    .comments-section .owl-item{
+        padding-top: 40px;
+    }
+    .comments-item_text p{
+        text-align: left;
+    }
+    .last-title,
+    .last-wrapper{
+        display: block;
+    }
+
+    .last-title span{
+        font-size: 21px;
+        line-height: 1.7;
+    }
+
+    .last-tables{
+        display: none;
+    }
+    .last-subtitle{
+        display: block;
+    }
+
+    #lv-formLanding2{
+        margin-top: 290px;
+    }
+
+    #form2 .input-phone, #lv-formLanding2 .input-phone{
+        left: 37px;
+        bottom: 210px;
+    }
+
+    #form2{
+        margin-top: 15px;
+        padding-top: 20px;
+    }
+
+    .last-subtitle li{
+        font-size: 14px;
+        margin-right: 7px;
+        display: inline-block;
+    }
+
+    .last-bottom-text p{
+        background-position: left top;
+        padding-top: 0;
+    }
+
+    footer{
+        background-image: none;
+        background-color: #5A4D47;
+        height: auto;
+        padding-top: 0;
+        padding-bottom: 120px;
+    }
+
+    footer .gmo-product{
+        margin: 20px 0;
+    }
+
+
+
+    
+    
+.last-section{
+    background-image: url('last-bg_mob.jpeg');
+    -webkit-background-size: auto;
+    background-color: #5A4D47;
+    height: auto;
+    background-size: auto;
+    padding-bottom: 0;
+    background-position: center top;
+}
+
+#popup-content{
+    display: none;
+}
+
+
+}
